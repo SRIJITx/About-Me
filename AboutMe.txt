@@ -1,0 +1,61 @@
+👋 Hi, I'm Srijit Mukherjee
+
+🚀 Aspiring Software Engineer | Future B.Tech CSE Student
+💻 Frontend Developer in Progress | Learning Full-Stack
+
+👨‍🎓 About Me
+
+I am a Class 11 Science student from India, preparing to begin my B.Tech journey in Computer Science.
+I started my coding journey early and have already mastered HTML and CSS.
+
+Now, I am focused on mastering:
+
+⚡ JavaScript
+
+🐍 Python
+
+My goal is to become a skilled Full-Stack Developer and build impactful real-world projects.
+
+🛠️ Skills
+✅ Frontend
+
+HTML5
+
+CSS3
+
+📚 Currently Learning
+
+JavaScript
+
+Python
+
+🔜 Future Goals
+
+Full-Stack Development
+
+Data Structures & Algorithms
+
+Open Source Contributions
+
+Startup & Tech Innovation
+
+🎯 My Mission
+
+Build clean, responsive, and secure web applications
+
+Improve problem-solving skills daily
+
+Contribute to open-source projects
+
+Launch my own tech startup
+
+📈 Growth Mindset
+
+I believe consistency beats talent.
+Every day I learn, build, and improve.
+
+🌐 Connect With Me
+
+GitHub: (your profile link)
+
+LinkedIn: (add later)
